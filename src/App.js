@@ -2,12 +2,12 @@ import React, { Component } from "react";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Route, Switch } from "react-router-dom";
-import Navbar from "./components/Navbar";
-import ProductList from "./components/ProductList";
-import Details from "./components/Details";
-import Default from "./components/Default";
-import Cart from "./components/Cart";
-import Modal from "./components/Modal";
+import Navbar from "./Components/NavBar";
+import ProductList from "./Components/ProductList";
+import Details from "./Components/Details";
+import Default from "./Components/Default";
+import Cart from "./Cart/Card";
+import Modal from "./Components/Modal";
 class App extends Component {
   render() {
     return (
