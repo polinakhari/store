@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\Полина\\Desktop\\mystore"
+		}
+	],
+	"settings": {
+		"emmet.includeLanguages": {
+			"javascript": "javascriptreact"
+		}
+	}
+	
+}
